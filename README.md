@@ -1,56 +1,55 @@
 ## Introduction (Round 0)
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
-<br>
-
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
-:--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+<b>Discipline | <b>Engineering (Computer Science &Engineering)
+:--|:--| 
+<b> Lab | <b> Data Mining / Data Analytics/ Machine Learning     
+<b>Experiment | <b> Classification rule process using Naive Bayes algorithm
 
 <h5> About the Lab (Objective) : </h5>
 
-Type here: berif description of the lab
+This Lab of Data Mining/Data Science and Analytics/ Machine Learning aims to make the students Understand the concept of classification, Clustering, Big Data Analysis .It explains the Importance of Data Analytics in gaining certain Business Intelligence or see some Patten or do some Predictions & Forecasting with the help of the huge data that we get from various sources. It helps the students in understanding various concepts in Machine Learning/ Data Science / Data Mining and train them with relevant tool such as WEKA which is heavily used in the rapidly growing field of Data Science, Machine Learning/ Data Science / Data Mining for Analytics purpose.
 
 <h5> About the Experiment : </h5>
 
-Type here: berif description of this experiment
+ The experiment tends to explain the concept of Classification in Data Mining and Machine Learning that uses Naïve Bayes Classifier Algorithm in WEKA. We assume that appropriate data preprocessing has been performed on the available Data set
 
 <h5> Target Audience : </h5>
 
-Type here: the target audience
+    • Senior undergraduate students 
+    • Postgraduate students 
+    • Research scholars 
 
 <h5> Course Alignment : </h5>
 
-Type here: courses aligned
+This experiment is aligned with course like  Data Mining, Machine Learning and Data Analytics.
 
 <h5> Universities Mapped : </h5>
 
-Type here: universities mapped
+APJ Abdul Kalam Technical University
 
-<b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+
+<b>Name of Developer | <b> Dr Pratima Singh
 :--|:--|
-<b> Institute | <b> My Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department in which you work
-
+<b> Institute | <b> Ajay Kumar Garg Engineering College
+<b> Email id|     <b> singhpratima@akgec.ac.in
+<b> Department | <b> Computer Science & Engineering
 #### Mentor Details
 
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Mentored by | <b> Dr. Anurag Chauhan
 :--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
+<b> Institute | <b> REC, Banda
+<b> Email id|     <b> anurag.chauhan36@gmail.com
+<b> Department |  <b> Electrical Engineering 
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Full name | Faculty | Dept Name | Name of the Insitute, City | abc@example.com
-2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-
+1 | Dr Pratima Singh | Faculty | Computer Science & Engineering | Ajay Kumar Garg Engineering College, Ghaziabad | singhpratima@akgec.ac.in
+2 | Ishika Singhal | Student | Computer Science & Engineering | Ajay Kumar Garg Engineering College, Ghaziabad |Ishika1810079@akgec.ac.in
+3 | Deepika Maurya | Student | Computer Science & Engineering | Ajay Kumar Garg Engineering College, Ghaziabad |Deepika1810063@akgec.ac.in
+4 | Harshit Chaudhary | Student | Computer Science & Engineering | Ajay Kumar Garg Engineering College, Ghaziabad |Harshit1810009@akagec.ac.in
+5 | Karan Yadav | Student | Computer Science & Engineering | Ajay Kumar Garg Engineering College, Ghaziabad |Karan1810057@akgec.ac.in
 
 <br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
+
